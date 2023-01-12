@@ -47,7 +47,7 @@ https://templatemo.com/tm-543-breezed
                         <img src="assets/images/Capture.PNG" alt="">
                         <!-- ***** Logo End ***** -->
                         <ul class="nav">
-                         <li class="scroll-to-section"><a href="admin/login.php" >Admin</a></li>
+                         <li class="scroll-to-section"><a href="../admin/login.php" >Admin</a></li>
                         </ul>   
                     </nav>
                 </div>
